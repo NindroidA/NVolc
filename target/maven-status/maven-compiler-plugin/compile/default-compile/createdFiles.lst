@@ -1,6 +1,0 @@
-com\github\nindroida\nvolc\blocks\listeners\BlockInteractListener.class
-com\github\nindroida\nvolc\blocks\SpecialObsidian.class
-com\github\nindroida\nvolc\commands\CommandManager.class
-com\github\nindroida\nvolc\commands\TabCompleteManager.class
-com\github\nindroida\nvolc\NVolc.class
-com\github\nindroida\nvolc\blocks\listeners\BlockPlaceListener.class
